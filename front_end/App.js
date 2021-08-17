@@ -28,8 +28,6 @@ import Swal from "sweetalert2";
 function App() {
 
 
-
-
     const [firstRender, setSetFirstRender] = useState(true);
     const [products,setProducts]=useState();
 
